@@ -7,6 +7,6 @@ You will also find the three files requiered to run the main script:
   3. cross_data.tsv
 
 You should run it with:
- $ruby process_fatabase.rb gene_information.tsv seed_stock_data.tsv cross_data.tsv
+ $ruby process_database.rb gene_information.tsv seed_stock_data.tsv cross_data.tsv
  
 This assigment was done collaborating with Ana Karina Ballesteros Gómez, Ángela Gómez Sacristán and Marta Fernández González. 
