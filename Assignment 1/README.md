@@ -1,4 +1,4 @@
-#First assignment 
+# First assignment 
 
 In this folder you will find the main script and a folder called classes ( it contains the three classes created) done in order to solve the first assignment of the subject, named Creating objects. 
 
@@ -13,7 +13,7 @@ You should run it with:
  
 This assigment was done collaborating with Ana Karina Ballesteros Gómez, Ángela Gómez Sacristán and Marta Fernández González. 
 
-#References
+# References
 
 How to use the initialize method in ruby. RubyGuides. (2019, July 23). Retrieved November 3, 2022, from https://www.rubyguides.com/2019/01/ruby-initialize-method/
 
