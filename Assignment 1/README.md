@@ -1,4 +1,4 @@
-In this folder you will find the main script and the three classes done in order to solve the first assignment of the subject, named Creating objects. 
+In this folder you will find the main script and a folder called classes ( it contains the three classes created) done in order to solve the first assignment of the subject, named Creating objects. 
 
 You will also find the three files requiered to run the main script:
 
