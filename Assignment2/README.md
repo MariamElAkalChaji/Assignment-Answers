@@ -1,3 +1,5 @@
+This assignment was made in collaboration with: Ana Karina Ballesteros Gómez, Ángela Gómez Sacristán, Mariam El Akal Chaji, Marta Fernández González and Paula Fernández Aldama.
+
 In this folder you will find the main script and a Class called InteractionNetwork.rb done in order to solve the second assignment of the subject.
 You will also find the file required, named ArabidopsisSubNetwork_GeneList.txt.
 
