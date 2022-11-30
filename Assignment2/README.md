@@ -1,4 +1,4 @@
-In this folder you will find the main scriot and a Class called INteractionNetwork done in order to solve the second subject of the assignment.
+In this folder you will find the main script and a Class called InteractionNetwork.rb done in order to solve the second assignment of the subject.
 You will also find the file required, named ArabidopsisSubNetwork_GeneList.txt.
 
 You should run it with: $ruby Main.rb ArabidopsisSubNetwork_GeneList.txt.
